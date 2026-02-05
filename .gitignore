@@ -206,5 +206,5 @@ CLAUDE.local.md
 
 # Copilot workflow artifacts (local-only)
 AGENTS.md
-docs/copilot_handoff.md
+docs/
 prompts/
