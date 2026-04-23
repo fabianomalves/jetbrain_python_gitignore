@@ -199,12 +199,16 @@ tasks/
 # but local or experimental configuration should be ignored
 CLAUDE.local.md
 
-# GitHub / Copilot (keep local-only; never commit)
-.github/
-.kluster/
+# Github Copilot
+.github
 
+.github/instructions/kluster-code-verify.instructions.md
+.kluster
+.github/kluster-code-verify.config.yaml
 
-# Copilot workflow artifacts (local-only)
+# GPT Codex
+.agents
 AGENTS.md
-docs/
-prompts/
+
+# Claude
+CLAUDE.md
