@@ -208,7 +208,11 @@ CLAUDE.local.md
 
 # GPT Codex
 .agents
+.codex
 AGENTS.md
 
 # Claude
 CLAUDE.md
+.claude/
+prompts_setup/
+SHARED_RULES.md
